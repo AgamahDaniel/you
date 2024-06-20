@@ -1,0 +1,202 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+  body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+  .header{
+    color: forestgreen;
+    text-align: center;
+  }
+  table {
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 16px;
+    color: firebrick;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #ac7c7c;
+  }
+  table {
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 16px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2
+  }
+  .paragraph1{
+    color: aquamarine;
+  }
+  .para55{
+    color: aquamarine;
+  }
+  .paragraph2 {
+    font-size:18px;
+    color: darkorange;
+  }
+  .dd {
+    color: navy;
+  }
+  .mm {
+    color: crimson;
+  }
+  .isi {
+   color: lightgreen;
+  }
+  .linda {
+    color: pink;
+  }
+  .para6 {
+    color: blueviolet;
+  }
+  .paragraph3 {
+    font-size: larger;
+    color: rebeccapurple;
+  }
+  .paragraph4{
+    font-size: larger;
+    color: navy;
+  }
+  .paragraph{
+    font-size: larger;
+    color: #4CAF50;
+  }
+  body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .hero-image1 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/isi.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  .hero-text1 {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(28, 150, 184);
+  }
+ 
+  .hero-image {
+    background-image: linear-gradient(rgba(174, 121, 121, 0.5), rgba(0, 0, 0, 0.5)), url("images/amanda.jpg");
+    height: 70%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .hero-image2 {
+    background-image: linear-gradient(rgba(144, 48, 48, 0.5), rgba(0, 0, 0, 0.5)), url("images/mum.jpg");
+    height: 70%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: crimson;
+  }
+  
+  .hero-text2 {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: indigo;
+  }
+  .hero-image3 {
+    background-image: linear-gradient(rgba(84, 83, 83, 0.5), rgba(5, 5, 5, 0.5)), url("images/dad.jpg");
+    height: 70%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: chartreuse;
+  }
+  
+  .hero-text3 {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: blue;
+  }
+  .footer {
+    position:fixed ;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+ }
+ .paragraph7 {
+  color: gold;
+
+ }
+ .isidore {
+  color: gold;
+ }
+ .hero-text {
+  text-align: center;
+ }
+ .gr {
+  color: darkkhaki;
+ }
+ .kamsi {
+  border-radius: 50%;
+}
